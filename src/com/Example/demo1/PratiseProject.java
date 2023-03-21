@@ -2,6 +2,14 @@ package com.Example.demo1;
 
 public class PratiseProject {
 	
+			void m1()
+			{
+				System.out.println("this is my project");
+			}
+	
+	
+	
+	
 	static public void main(String abc[])
 	{
 //		int i = 78;
